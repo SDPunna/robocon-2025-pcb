@@ -1,0 +1,28 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+Copyright (c) 2025 Vaishnavi and Shreehari, Team RAW, St. Francis Institute of Technology
+
+This source describes Open Hardware and is licensed under the CERN-OHL-P v2.
+
+You may redistribute and modify this source and make products using it under
+the terms of the CERN-OHL-P v2 (https:/cern.ch/cern-ohl).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING
+OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-P v2 for applicable conditions.
+
+Source location: https://github.com/yourusername/robocon-2025-pcb
+
+As per CERN-OHL-P v2 section 4, should You produce hardware based on this
+source, You must where practicable maintain the Source Location visible
+on the external case of the hardware or other products you make using
+this source.
+
+---
+
+Full license text: https://ohwr.org/cern_ohl_p_v2.txt
+
+Alternative License Options:
+If CERN-OHL-P is not suitable for your use case, you may also use this 
+hardware design under the MIT License (see LICENSE-MIT file) or 
+Apache 2.0 License.
