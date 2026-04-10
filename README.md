@@ -168,38 +168,6 @@ This separation provides:
 - **Commands**: Speed and direction control packets
 - **Connection**: TX from ESP32-U → RX on motor driver
 
-## 📁 Repository Structure
-
-```
-robocon-2025-pcb/
-├── Hardware/
-│   ├── Altium_Project/
-│   │   ├── R2_Circuit.PrjPcb          # Main project file
-│   │   ├── Schematic1.SchDoc          # Master schematic
-│   │   ├── Sheet1.SchDoc              # Additional sheets
-│   │   ├── PCB1.PcbDoc                # PCB layout
-│   │   └── Libs/                      # Custom libraries
-│   │       ├── ESP32_U.SchLib
-│   │       ├── ESP32_S3.SchLib
-│   │       └── ESP32_Custom.PcbLib
-│   └── Outputs/
-│       ├── Gerbers/                   # Manufacturing files
-│       ├── BOM/                       # Bill of Materials
-│       ├── Assembly/                  # Pick-and-place files
-│       └── PDFs/                      # Schematic and layout PDFs
-├── Firmware/
-│   ├── Master_ESP32U/                 # PS controller & coordination
-│   ├── Locomotion_ESP32S3/            # Motor control firmware
-│   └── Shooter_ESP32S3/               # Intake mechanism control
-├── Documentation/
-│   ├── Design_Decisions.md
-│   ├── Testing_Protocol.md
-│   └── Images/
-│       ├── PCB_Top_Layer.png
-│       ├── PCB_Bottom_Layer.png
-│       └── Schematic_Overview.png
-└── README.md
-```
 
 ## 🚀 Getting Started
 
